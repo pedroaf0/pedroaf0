@@ -26,5 +26,6 @@
 <a href="https://t.me/pedroaf0"><img alt="Email" src="https://img.shields.io/badge/t.me/-pedroaf0-blue?logo=telegram"></a>
 </p>
 
-
+<p align="center">
 <h3> 👇🏼 Principais Projetos 👇🏼 </h3>
+</p>
