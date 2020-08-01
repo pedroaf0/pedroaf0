@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Pedroaf0.</h2>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
-<a href="/readme-en.md">read in English</a>
+<a href="https://github.com/pedroaf0/pedroaf0/blob/master/README-en.md">read in English</a>
 
 - 😀 &nbsp; **Explorando** todas as possibilidades que o **JavaScript** oferece.
 - 🎓 &nbsp; Cursando **Técnico** em Manutenção e Suporte Em **Informática** no **Instituto Federal** de Ciência e Tecnologia do Rio Grande do Sul Campus Sertão, turma de 2019.
