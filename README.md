@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 <a href="/readme-en.md">read in English</a>
 
-- 😀 &nbsp; Explorando todas as possibilidades que o JavaScript oferece.
-- 🎓 &nbsp; Cursando Técnico em Manutenção e Suporte Em Informática no Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul Campus Sertão, turma de 2019.
-- 🤖 &nbsp; Criando *bots* para ajudar *pessoas*.
+- 😀 &nbsp; **Explorando** todas as possibilidades que o **JavaScript** oferece.
+- 🎓 &nbsp; Cursando **Técnico** em Manutenção e Suporte Em **Informática** no **Instituto Federal** de Ciência e Tecnologia do Rio Grande do Sul Campus Sertão, turma de 2019.
+- 🤖 &nbsp; Criando **bots** para ajudar **pessoas**.
 
 
 <h3>🛠 Tecnologias </h3>
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroaf0&show_icons=true)](https://github.com/pedroaf0)
+[![pedroaf0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroaf0&show_icons=true)](https://github.com/pedroaf0)
 
 <h3> 🤝🏻 Entre em contato </h3>
 
