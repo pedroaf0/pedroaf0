@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Hey there! I'm Pedroaf0.</h2>
 
-<!--
-**pedroaf0/pedroaf0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Sobre mim </h3>
+<a href="/readme-en.md">read in English</a>
 
-Here are some ideas to get you started:
+- 😀 &nbsp; Explorando todas as possibilidades que o JavaScript oferece.
+- 🎓 &nbsp; Cursando Técnico em Manutenção e Suporte Em Informática no Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul Campus Sertão, turma de 2019.
+- 🤖 &nbsp; Criando *bots* para ajudar *pessoas*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🛠 Tecnologias </h3>
+
+- 💻 &nbsp; Node.js 
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🔧 &nbsp; Git | Linux | Windowns 
+- 🖥 &nbsp; after effects | Photoshop 
+
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroaf0&show_icons=true)](https://github.com/pedroaf0)
+
+<h3> 🤝🏻 Entre em contato </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pedroaf0/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin.com/in/-pedroaf0-blue?logo=linkedin"></a>
+<a href="https://www.twitter.com/pedroaf0/"><img alt="Instagram" src="https://img.shields.io/badge/teitter.com/-pedroaf0-blue?logo=twitter"></a>
+<a href="https://t.me/pedroaf0"><img alt="Email" src="https://img.shields.io/badge/t.me/-pedroaf0-blue?logo=telegram"></a>
+</p>
+
