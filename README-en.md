@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Pedroaf0.</h2>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
-<a href="/readme-en.md">read in English</a>
+<h3> 👨🏻‍💻 About me </h3>
+<a href="https://github.com/pedroaf0">back to profile</a>
 
 - 😀 &nbsp; **Exploring** all the possibilities that **JavaScript** offers.
 - 🎓 &nbsp; Studying **Technician** in **Computer** Maintenance and Support at the **Federal Institute** of Science and Technology of Campus Sertão do Rio Grande do Sul, class of 2019.
@@ -26,6 +26,4 @@
 <a href="https://t.me/pedroaf0"><img alt="Email" src="https://img.shields.io/badge/t.me/-pedroaf0-blue?logo=telegram"></a>
 </p>
 
-<p align="center">
-<h3> 👇🏼 main projects 👇🏼 </h3>
-</p>
+
