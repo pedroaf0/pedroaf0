@@ -17,9 +17,8 @@
 
 <br/>
 
-[![pedroaf0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroaf0&show_icons=true)](https://github.com/pedroaf0)
 
-<h3> 🤝🏻 Entre em contato </h3>
+<h3> 🤝🏻 Contato: </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pedroaf0/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin.com/in/-pedroaf0-blue?logo=linkedin"></a>
@@ -27,3 +26,5 @@
 <a href="https://t.me/pedroaf0"><img alt="Email" src="https://img.shields.io/badge/t.me/-pedroaf0-blue?logo=telegram"></a>
 </p>
 
+
+<h3> 👇🏼 Principais Projetos 👇🏼 </h3>
