@@ -1,16 +1,14 @@
 <h2>👋 Hey there! I'm Pedroaf0.</h2>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
-<a href="https://github.com/pedroaf0/pedroaf0/blob/master/README-en.md#--about-me-">read in English</a>
+<h3> About me: </h3>
 
-- 😀 &nbsp; **Explorando** todas as possibilidades que o **JavaScript** oferece.
-- 🎓 &nbsp; Cursando **Técnico** em Manutenção e Suporte Em **Informática** no **Instituto Federal** de Ciência e Tecnologia do Rio Grande do Sul Campus Sertão, turma de 2019.
-- 🤖 &nbsp; Criando **bots** para ajudar **pessoas**.
+- 😀 &nbsp; **Exploring** all the possibilities that **technology** offers.
+- 🎓 &nbsp; Studying **Technician** in Maintenance and Support In **Informatics** at **Federal Institute** of Science and Technology of Rio Grande do Sul Campus Sertão, class of 2019.
+- 🤖 &nbsp; Creating **bots** to help **people**.
 
+<h3>🛠 Technologies </h3>
 
-<h3>🛠 Tecnologias </h3>
-
-- 💻 &nbsp; Node.js 
+- 💻 &nbsp; Node.js | PHP | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🔧 &nbsp; Git | Linux | Windowns 
 - 🖥 &nbsp; After Effects | Photoshop 
@@ -18,7 +16,7 @@
 <br/>
 
 
-<h3> 🤝🏻 Contato: </h3>
+<h3> 🤝🏻 Contact: </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pedroaf0/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin.com/in/-pedroaf0-blue?logo=linkedin"></a>
@@ -27,5 +25,5 @@
 </p>
 
 <p align="center">
-<h3> 👇🏼 Principais Projetos 👇🏼 </h3>
+<h3> 👇🏼 Main projects 👇🏼 </h3>
 </p>
