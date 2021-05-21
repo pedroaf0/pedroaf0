@@ -19,8 +19,7 @@
 <h3> 🤝🏻 Contact: </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedroaf0/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin.com/in/-pedroaf0-blue?logo=linkedin"></a>
-<a href="https://www.twitter.com/pedroaf0/"><img alt="twitter" src="https://img.shields.io/badge/twitter.com/-pedroaf0-blue?logo=twitter"></a>
+
 <a href="https://t.me/pedroaf0"><img alt="Email" src="https://img.shields.io/badge/t.me/-pedroaf0-blue?logo=telegram"></a>
 </p>
 
