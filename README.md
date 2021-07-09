@@ -3,7 +3,6 @@
 <h3> About me: </h3>
 
 - 😀 &nbsp; **Exploring** all the possibilities that **technology** offers.
-- 🎓 &nbsp; Studying **Technician** in Maintenance and Support In **Informatics** at **Federal Institute** of Science and Technology of Rio Grande do Sul Campus Sertão, class of 2019.
 - 🤖 &nbsp; Creating **bots** to help **people**.
 
 <h3>🛠 Technologies </h3>
